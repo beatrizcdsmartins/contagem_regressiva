@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.countdown-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.countdown-el{
+    text-align: center;
+}
